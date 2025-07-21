@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="banner_masoud.png" alt="Masoud Bakhshi Banner" width="100%">
+</p>
+
 # 👋 Hi, I'm Masoud Bakhshi
 
 I’m a **Control Software Specialist at Volvo Trucks**, working at the intersection of electric powertrain innovation, control engineering, and sustainable mobility. My focus is on designing robust, high-performance control systems for electric vehicles — specifically in the areas of **vector control**, **torque optimization**, and **regenerative braking** for **PMSM** and **EESM** machines.
